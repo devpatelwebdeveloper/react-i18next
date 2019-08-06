@@ -1,7 +1,7 @@
 {
-  "title": "Welcome to react using react-i18next",
+  "title": "Bienvenue à réagir en utilisant react-i18next",
   "description": {
-    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-    "part2": "This is French."
+    "part1": "Pour commencer, éditez <1> src / App.js </ 1> et enregistrez-le pour le recharger.",
+    "part2": "Changez de langue entre l'anglais et l'allemand en utilisant les boutons ci-dessus."
   }
 }
